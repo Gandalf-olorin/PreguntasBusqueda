@@ -38,7 +38,7 @@ A.- En problemas en los que se busca la solución más rápida posible.
 
 B.- En problemas en los que se busca la solución más profunda posible.
 
-**C.- En problemas en los que se busca la solución más cercana al nodo de inicio. ** :heavy_check_mark:
+**C.- En problemas en los que se busca la solución más cercana al nodo de inicio.** :heavy_check_mark:
 
 ---
 
